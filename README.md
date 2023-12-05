@@ -22,6 +22,6 @@ Download: https://developer.android.com/studio?hl=pt-br
 
 <div align="center">
   <img src="imagensprojeto/Tela listar todos os produtos.PNG" alt="listar todos os produtos" width="201.12" />
-  <img src="imagensprojeto/Tela alterar produto.PNG" alt="Tela alterar produto" width="200" />
   <img src="imagensprojeto/Tela cadastrar produto.PNG" alt="Tela cadastrar produto" width="202.99" />
+  <img src="imagensprojeto/Tela alterar produto.PNG" alt="Tela alterar produto" width="200" />
 </div>
