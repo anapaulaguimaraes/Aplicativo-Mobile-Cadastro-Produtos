@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".NewProductsActivity">
+
+    <!--Edit text para o nome do Produto-->
+    <EditText
+        android:id="@+id/idEdtNomeProduto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:hint="Nome do produto" />
+
+    <!--Edit text para a descrição do Produto-->
+    <EditText
+        android:id="@+id/idEdtDescricaoProduto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:hint="Descrição do produto" />
+
+    <!--Edit text para o preço do Produto-->
+    <EditText
+        android:id="@+id/idEdtPrecoProduto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:hint="Preço do produto"/>
+
+    <!-- Botão para salvar os dados no banco de dados ROOM-->
+    <Button
+        android:id="@+id/idBtnSaveProducts"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="5dp"
+        android:text="Salvar produto"
+        android:textAllCaps="false" />
+</LinearLayout>
