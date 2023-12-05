@@ -1,6 +1,7 @@
  ## Aplicativo Cadastro de produtos em Java:
 
-Implementação de uma aplicação móvel capaz de permitir o gerenciamento do cadastro de produtos, foi implementada através da IDE Android Studio. voltada para o sistema operacional Android, foi desenvolvida em Java e implementa as funcionalidades dos métodos CRUD a aplicação é capaz de salvar, ler, atualizar e excluir dados no banco de dados Room.
+Implementação de uma aplicação móvel capaz de permitir o gerenciamento de cadastro de produtos, foi implementada através da IDE Android Studio. 
+Voltada para o sistema operacional Android, foi desenvolvida em Java e implementa as funcionalidades dos métodos CRUD a aplicação é capaz de cadastrar, listar, alterar e excluir dados no banco de dados Room.
 
 
 ## Iniciar o projeto
@@ -11,6 +12,7 @@ Implementação de uma aplicação móvel capaz de permitir o gerenciamento do c
 Versão utilizada Android Studio Giraffe
 
 Download: https://developer.android.com/studio?hl=pt-br
+
 
 ## Imagens da aplicação
 
